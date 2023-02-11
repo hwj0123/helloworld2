@@ -1,6 +1,7 @@
 {
   "name": "helloworld2",
   "version": "0.1.0",
+  "homepage": "https://xiaofengcanyuelong.github.io/helloworld2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
